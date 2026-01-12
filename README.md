@@ -55,7 +55,6 @@ The system is designed to support:
 - Reproducible evaluation across policy variants and baselines  
 
 > **Implementation note:**  
-> ## Non-Goals
 This project intentionally does not pursue state-of-the-art
 performance or large-scale benchmarking. The focus is on
 understanding system behavior under constraint and failure.
