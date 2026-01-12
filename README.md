@@ -55,7 +55,11 @@ The system is designed to support:
 - Reproducible evaluation across policy variants and baselines  
 
 > **Implementation note:**  
-> Core environment and agent implementations are intentionally not open-sourced due to ongoing research and publication plans. This repository documents system design decisions, evaluation methodology, and observed behaviors rather than raw implementation code.
+> ## Non-Goals
+This project intentionally does not pursue state-of-the-art
+performance or large-scale benchmarking. The focus is on
+understanding system behavior under constraint and failure.
+
 
 ---
 
